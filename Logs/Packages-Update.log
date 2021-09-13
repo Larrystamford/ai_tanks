@@ -1,0 +1,36 @@
+
+=== Mon Aug 30 14:38:06 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.collab-proxy@1.7.1
+  com.unity.ide.rider@2.0.7
+  com.unity.ide.vscode@1.2.3
+  com.unity.modules.androidjni@1.0.0
+  com.unity.modules.cloth@1.0.0
+  com.unity.modules.director@1.0.0
+  com.unity.modules.terrainphysics@1.0.0
+  com.unity.modules.tilemap@1.0.0
+  com.unity.modules.uielements@1.0.0
+  com.unity.modules.umbra@1.0.0
+  com.unity.modules.unityanalytics@1.0.0
+  com.unity.modules.vehicles@1.0.0
+  com.unity.modules.video@1.0.0
+  com.unity.modules.wind@1.0.0
+  com.unity.timeline@1.4.8
+
+=== Mon Aug 30 18:08:54 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+  com.unity.ads@3.4.7
+  com.unity.analytics@3.3.5
+  com.unity.postprocessing@2.3.0
+  com.unity.purchasing@2.0.6
+  com.unity.xr.legacyinputhelpers@2.1.4
